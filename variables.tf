@@ -61,7 +61,3 @@ variable "enable_jaeger" {
   type    = bool
   default = true
 }
-
-variable "github_url" {
-  type = string
-}
